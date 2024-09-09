@@ -4,6 +4,7 @@
         "grep"
     ],
     "diagnostics.disable": [
-        "unused-local"
+        "unused-local",
+        "unused-function"
     ]
 }
